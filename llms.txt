@@ -1,0 +1,26 @@
+# ProDentim
+
+> ProDentim is a Oral Probiotic / Dental Health Supplement. ProDentim is a chewable dietary supplement built around the idea that your mouth hosts its own community of bacteria. Rather than scrubbing, rinsing or masking, each tablet delivers a blend of probiotic strains plus selected plant and mineral ingredients intended to support the balance of that oral microbiome — and by extension, the comfort of your teeth and gums. It is a daily wellness habit, taken as a soft chewable tablet, meant to sit alongside normal brushing and flossing rather than replace them.
+
+## Pages
+- [Home — overview, pricing and FAQ](https://prodentim-org.onrender.com/)
+- [What ProDentim is](https://prodentim-org.onrender.com/what-is-product.html)
+- [How ProDentim works](https://prodentim-org.onrender.com/how-it-works.html)
+- [ProDentim ingredients, explained individually](https://prodentim-org.onrender.com/ingredients.html)
+- [ProDentim benefits](https://prodentim-org.onrender.com/benefits.html)
+- [ProDentim customer reviews](https://prodentim-org.onrender.com/reviews.html)
+- [ProDentim frequently asked questions](https://prodentim-org.onrender.com/faq.html)
+
+## Blog
+- [What To Know Before Trying ProDentim](https://prodentim-org.onrender.com/blog/what-to-know-before-trying.html): A clear, honest look at ProDentim — what it contains, how it is used, what it costs, and the guarantee behind it — before you decide to order.
+- [How To Read A Supplement Label](https://prodentim-org.onrender.com/blog/how-to-read-a-supplement-label.html): Serving size, proprietary blends and other ingredients explained — using ProDentim's own label as a real example of what to look for.
+- [ProDentim: An Honest Review](https://prodentim-org.onrender.com/blog/prodentim-honest-review.html): An honest look at ProDentim — what it claims to do, what it actually contains, what it costs, and who it is realistically a good fit for.
+- [Lactobacillus Paracasei vs Lactobacillus Reuteri: What Each Does In ProDentim](https://prodentim-org.onrender.com/blog/lactobacillus-paracasei-vs-lactobacillus-reuteri.html): Lactobacillus Paracasei and Lactobacillus Reuteri are both in ProDentim but play different roles — here is what each one actually does in the formula.
+- [Daily Habits That Complement ProDentim](https://prodentim-org.onrender.com/blog/daily-habits-that-complement-it.html): Simple daily habits — hydration, timing, consistency — that pair well with ProDentim as part of a oral probiotic / dental health routine.
+- [ProDentim FAQ: Dosage, Timing, Who Should Skip It](https://prodentim-org.onrender.com/blog/prodentim-faq.html): Common questions about ProDentim — dosage, timing, the guarantee, and who should skip it — answered directly.
+- [Terms of Use](https://prodentim-org.onrender.com/terms.html)
+- [Privacy Policy](https://prodentim-org.onrender.com/privacy-policy.html)
+- [Disclaimer](https://prodentim-org.onrender.com/disclaimer.html)
+- [Refund Policy](https://prodentim-org.onrender.com/refund-policy.html)
+- [About Us](https://prodentim-org.onrender.com/about.html)
+- [Contact Us](https://prodentim-org.onrender.com/contact.html)
